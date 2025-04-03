@@ -1,5 +1,5 @@
-// NAME - Shivendra Dwivedi
-// PRN - 23070123122
+// NAME - Nalin Kumar srivastava
+// PRN - 23070123157
 // EXPERIMENT - 2(C) 
 
 #include<iostream>
